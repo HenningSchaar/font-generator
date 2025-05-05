@@ -30,9 +30,3 @@ This will process the images in the `input` directory and create the font files 
 
 ## Output
 The generated font files will be located in the `output` directory. Follow the instructions in `output/README.md` to install the font system-wide.
-
-## Contributing
-Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
